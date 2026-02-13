@@ -27,3 +27,5 @@ On a technical level, I gained experience in resolving the interplay between kin
 - High-Pressure Evaluation: Test the stability of the cooperative mechanism under 4 bar $CO_2$ to simulate more industrial carbon capture environments.
 
 ## Videos- cation translocation
+https://github.com/user-attachments/assets/91803572-6110-45e9-8a3d-1f69fd16eea7
+
