@@ -1,4 +1,4 @@
-# Understanding Water Enhancement of CO2 Adsorption in Zeolite Cs-RHO
+# Understanding Water Enhancement of $CO_2$ Adsorption in Zeolite Cs-RHO
 
 [![DOI](https://zenodo.org/badge/845934445.svg)](https://zenodo.org/doi/10.5281/zenodo.13565267)
 
